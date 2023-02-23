@@ -1,0 +1,1 @@
+/home/rust/rust_projects/smart_house_tokio/target/debug/data_generator: /home/rust/rust_projects/smart_house_tokio/data_generator/src/lib.rs /home/rust/rust_projects/smart_house_tokio/data_generator/src/main.rs
